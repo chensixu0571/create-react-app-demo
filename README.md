@@ -23,3 +23,4 @@ npm run build
 
 - react：https://facebook.github.io/react/docs/hello-world.html
 - es6：https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
+# create-react-app-H5DEMO
