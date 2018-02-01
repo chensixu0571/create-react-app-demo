@@ -1,0 +1,89 @@
+body{
+  background:#F3F5F9;
+}
+.orderbox{
+  margin:0.133333rem 0.133333rem;
+  background:#fff;
+  font-size: 14px;
+  padding:0 0.213333rem;
+}
+.topBox{
+   text-align: center;
+   padding:0.453333rem 0;
+   border-bottom:1px dashed #D0D0D0;
+}
+.topTitle{
+    font-weight: bold;
+    font-size: 15px;
+    color: #333;
+    padding-bottom:0.226667rem
+}
+.moneyTitle{
+    color: #797B7C;
+    padding-bottom:0.133333rem;
+}
+.moneyNum{
+    font-size: 36px;
+    color: #FF713F;
+}
+.lessonBox,.ordermsgBox,.bottomBox{
+    padding:0.533333rem 0;
+}
+.dataList{
+  overflow: hidden;	
+}
+.dataList li{
+  overflow: hidden;
+  padding-bottom:0.186667rem;
+}
+.dataList li:last-child{
+   padding-bottom:0;
+}
+.leftTitle{
+   float:left;
+   color:#797B7C;
+}
+.rightNum{
+   float:right;
+   color: #333333;
+}
+.borderLine{
+   height:0.013333rem;
+   position: relative;
+   border-bottom:1px dashed #D0D0D0;
+}
+.borderLine span{
+   display:inline-block;
+   width: 0.426667rem;
+   height:0.853333rem;
+   background-size: 100% 100%;
+   position:absolute;
+   bottom:-0.42rem;
+}
+.leftIcon{
+   background:url(image/left.png) no-repeat;
+   left:-0.213333rem;
+}
+.rightIcon{
+   background:url(image/right.png) no-repeat;
+   right:-0.213333rem;
+}
+.remark{
+   overflow: hidden;
+}
+.dotIcon{
+   float: left;
+   width:0.133333rem;
+   height:0.133333rem;
+   background:#ccc;
+   border-radius: 50%;
+   position: relative;
+   margin-top: 0.133333rem
+}
+.remarkText{
+   float: left;
+   width:8.186667rem;
+   color: #797B7C;
+   font-size: 13px; 
+   padding-left:0.24rem;
+}
